@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppExample-Navigation</string>
+    <string name="button">Dance</string>
+    <string name="neeko_dance">Neeko Dance</string>
+</resources>
